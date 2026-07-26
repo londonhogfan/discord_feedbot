@@ -68,6 +68,9 @@ DEADJOE
 *.swp
 *.swo
 
-# sqlite DB file
+# Feedbot's own stuff:
 *.db
+*.db-wal
+*.db-shm
 feed2discord.local.ini
+feed2discord.auth.ini
